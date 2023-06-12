@@ -31,7 +31,8 @@
       },
       "permissions": [
         "android.permission.CAMERA"
-      ]
+      ],
+      "package": "com.ay0ub.slidify"
     },
     "web": {
       "favicon": "./assets/favicon.png"

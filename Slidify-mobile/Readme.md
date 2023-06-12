@@ -46,7 +46,7 @@ To set up the Slidify, follow the instructions below :
 
 ##### Option 3
 
-1. Download and install the apk by clicking [here](https://expo.dev/@ay0ub/slidify)
+1. Download and install the apk by clicking [here](https://expo.dev/artifacts/eas/aE7AJfJ7t6orkSND5Kumr4.apk)
 
 ---
 
