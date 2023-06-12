@@ -1,0 +1,11 @@
+asposestorage==1.0.2
+fastapi==0.97.0
+pydantic==1.10.9
+PyQt5==5.15.9
+PyQt5_sip==12.12.1
+segno==1.5.2
+uvicorn==0.22.0
+pywin32==306
+cssutils==2.7.1
+qt_material==2.14
+pyqtspinner==2.0.0

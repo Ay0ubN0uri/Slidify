@@ -1,0 +1,117 @@
+:root {
+    --primaryColor: #ab47bc;
+    --primaryLightColor: #df78ef;
+    --secondaryColor: #232629;
+    --secondaryLightColor: #4f5b62;
+    --secondaryDarkColor: #31363b;
+    --primaryTextColor: #ffffff;
+    --secondaryTextColor: #ffffff;
+    --danger: #dc3545;
+    --warning: #ffc107;
+    --success: #1ff29a;
+    --info: #17a2b8;
+}
+
+
+
+
+
+QPushButton {
+    text-transform: none;
+}
+
+.slidifyTitle {
+    font-size: 30px;
+    letter-spacing: 2px;
+    height: 100px;
+}
+
+QLabel {
+    padding: 5px;
+}
+
+.statusLbl__not_connected {
+    background-color: var(--danger);
+    color: var(--primaryTextColor);
+}
+
+.statusLbl__connected {
+    background-color: var(--success);
+    color: var(--primaryTextColor);
+}
+
+.exportBtn {
+    color: #17a2b8;
+    background-color: transparent;
+}
+
+.titleLbl {
+    font-size: 20px;
+    /* color: #17a2b8; */
+    color: #448aff;
+    font-weight: bold;
+}
+
+.titleBodyLbl {
+    font-size: 15px;
+    /* color: #17a2b8; */
+}
+
+.quoteLbl {
+    background-color: var(--danger);
+    color: var(--primaryTextColor) !important;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.actionLbl {
+    padding: 0px;
+    margin: 0px;
+    font-weight: bold;
+}
+
+.actionStatusLbl__running {
+    padding: 0px;
+    margin: 0px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.actionStatusLbl__completed {
+    padding: 0px;
+    margin: 0px;
+    font-weight: bold;
+    color: #1ff29a;
+}
+
+.waitingLbl {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.descriptionLbl {
+    font-size: 16px;
+}
+
+.alertTitle__information {
+    font-size: 20px;
+    color: #448aff;
+    letter-spacing: 1px;
+}
+
+.alertTitle__success {
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: var(--success);
+}
+
+.alertTitle__warning {
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: var(--danger);
+}
+
+.noteTxt {
+    font-size: 16px;
+    font-weight: bold;
+}
